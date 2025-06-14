@@ -63,6 +63,7 @@ return [
         'th-TH'=> 'Thai',
         'tr-TR'=> 'Turkish',
         'uk-UA'=> 'Ukranian',
+        'ur-PK'=> 'Urdu, Pakistan',
         'vi-VN'=> 'Vietnamese',
         'cy-GB'=> 'Welsh',
         'zu-ZA'=> 'Zulu',

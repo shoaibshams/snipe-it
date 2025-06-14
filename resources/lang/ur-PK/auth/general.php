@@ -1,18 +1,17 @@
 <?php
 
 return [
-    'send_password_link'	        => 'Send Password Reset Link',
-    'email_reset_password'			=> 'Email Password Reset',
-    'reset_password'			    => 'Reset Password',
-    'saml_login'                    => 'Login via SAML',
-    'login'                         => 'Login',
-    'login_prompt'                  => 'Please Login',
-    'forgot_password'               => 'I forgot my password',
-    'ldap_reset_password'           => 'Please click here to reset your LDAP password',
-    'remember_me'                   => 'Remember Me',
-    'username_help_top'                 => 'Enter your <strong>username</strong> to be emailed a password reset link.',
-    'username_help_bottom'          => 'Your username and email address <em>may</em> be the same, but may not be, depending on your configuration. If you cannot remember your username, contact your administrator. <br><br><strong>Usernames without an associated email address will not be emailed a password reset link.</strong> ',
-    'google_login'                  => 'Login with Google Workspace',
-    'google_login_failed'           => 'Google Login failed, please try again.',
+    'send_password_link'	        => 'پاس ورڈ ری سیٹ لنک بھیجیں',
+    'email_reset_password'			=> 'پاس ورڈ ری سیٹ ای میل کریں',
+    'reset_password'			    => 'پاس ورڈ ری سیٹ کریں',
+    'saml_login'                    => 'SAML کے ذریعے لاگ ان کریں',
+    'login'                         => 'لاگ ان',
+    'login_prompt'                  => 'براہ کرم لاگ ان کریں',
+    'forgot_password'               => 'میں نے اپنا پاس ورڈ بھول گیا',
+    'ldap_reset_password'           => 'اپنا LDAP پاس ورڈ ری سیٹ کرنے کے لیے یہاں کلک کریں',
+    'remember_me'                   => 'مجھے یاد رکھیں',
+    'username_help_top'             => 'پاس ورڈ ری سیٹ لنک ای میل کرنے کے لیے اپنا <strong>صارف نام</strong> درج کریں۔',
+    'username_help_bottom'          => 'آپ کا صارف نام اور ای میل ایڈریس <em>ہو سکتا ہے</em> ایک جیسا ہو، لیکن یہ آپ کی کنفیگریشن پر منحصر ہے کہ ایسا نہ بھی ہو۔ اگر آپ اپنا صارف نام بھول گئے ہیں تو اپنے ایڈمنسٹریٹر سے رابطہ کریں۔ <br><br><strong>ای میل ایڈریس کے بغیر صارف ناموں کو پاس ورڈ ری سیٹ لنک ای میل نہیں کیا جائے گا۔</strong>',
+    'google_login'                  => 'گوگل ورک اسپیس کے ساتھ لاگ ان کریں',
+    'google_login_failed'           => 'گوگل لاگ ان ناکام ہوا، براہ کرم دوبارہ کوشش کریں۔',
 ];
-
