@@ -1,16 +1,16 @@
 <?php
 
-    return [
-        'asset_maintenances' => 'Asset Maintenances',
-        'edit'               => 'Edit Asset Maintenance',
-        'delete'             => 'Delete Asset Maintenance',
-        'view'               => 'View Asset Maintenance Details',
-        'repair'             => 'Repair',
-        'maintenance'        => 'Maintenance',
-        'upgrade'            => 'Upgrade',
-        'calibration'        => 'Calibration',
-        'software_support'   => 'Software Support',
-        'hardware_support'   => 'Hardware Support',
-        'configuration_change'   => 'Configuration Change',
-        'pat_test'           => 'PAT Test',
-    ];
+return [
+    'asset_maintenances' => 'اثاثہ کی دیکھ بھال',
+    'edit'               => 'اثاثہ کی دیکھ بھال ترمیم کریں',
+    'delete'             => 'اثاثہ کی دیکھ بھال حذف کریں',
+    'view'               => 'اثاثہ کی دیکھ بھال کی تفصیلات دیکھیں',
+    'repair'             => 'مرمت',
+    'maintenance'        => 'دیکھ بھال',
+    'upgrade'            => 'اپ گریڈ',
+    'calibration'        => 'کیلیبریشن',
+    'software_support'   => 'سافٹ ویئر سپورٹ',
+    'hardware_support'   => 'ہارڈ ویئر سپورٹ',
+    'configuration_change'   => 'کنفیگریشن تبدیلی',
+    'pat_test'           => 'PAT ٹیسٹ',
+];

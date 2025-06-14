@@ -1,8 +1,8 @@
 <?php
 
-    return [
-        'title'         => 'Asset Maintenance',
-        'asset_name'    => 'Asset Name',
-        'is_warranty'   => 'Warranty',
-        'dl_csv'        => 'Download CSV',
-    ];
+return [
+    'title'         => 'اثاثہ کی دیکھ بھال',
+    'asset_name'    => 'اثاثہ کا نام',
+    'is_warranty'   => 'وارنٹی',
+    'dl_csv'        => 'CSV ڈاؤن لوڈ کریں',
+];
